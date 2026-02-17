@@ -32,7 +32,8 @@ Tailwind CSS 3
 
 TypeScript
 
-🧠 Key Engineering Learnings
+🧠 Key Learnings
+
 1️⃣ Realtime DELETE events issue
 
 DELETE operations were not updating the UI in realtime.
