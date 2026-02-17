@@ -57,9 +57,13 @@ Ensures user-specific realtime updates.
 Realtime channels are cleaned up on component unmount to prevent memory leaks.
 
 📦 Installation
+
 git clone https://github.com/Sakthivel2002/smart-bookmark-app.git
+
 cd smart-bookmark-app
+
 npm install
+
 npm run dev
 
 🔐 Environment Variables
