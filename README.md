@@ -39,7 +39,7 @@ TypeScript
 DELETE operations were not updating the UI in realtime.
 
 Fix:
-Enabled full replica identity in Postgres:
+Enabled full replica identity in Postgres
 
 ALTER TABLE bookmarks REPLICA IDENTITY FULL;
 
@@ -48,7 +48,7 @@ This allows Supabase to send old row data (payload.old) for DELETE events.
 
 2️⃣ Multi-Tab Realtime Sync
 
-Used filtered Supabase postgres_changes subscription:
+Used filtered Supabase postgres_changes subscription
 
 filter: `user_id=eq.${user.id}`
 
