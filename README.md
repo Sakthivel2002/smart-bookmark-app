@@ -1,5 +1,7 @@
 🚀 Smart Bookmark App
 
+LIVE DEMO - https://smart-bookmark-app-zeta-neon.vercel.app/
+
 A realtime bookmark manager built with Next.js 16 and Supabase.
 
 Users can log in with Google, add bookmarks, and see changes reflected instantly across multiple tabs using Supabase Realtime.
